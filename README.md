@@ -7,7 +7,3 @@
   <h4>是个穷人，能存放文件的都被咱塞满了QwQ。想要一台NAS和MAC(以及一堆跟IT有关的书籍awa)。</h4>
   <h2>欢迎来找我玩！awa</h2>
 </div>
-
-<p align="center">
-    <img width="500" src="https://metrics.lecoq.io/2659170494" alt="Github Metrics">&emsp;<img src="https://activity-graph.herokuapp.com/graph?username=2659170494&theme=redical">
-  </p>
